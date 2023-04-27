@@ -1,5 +1,5 @@
 # Updated-ColorToTerrain-Script
-This is a updated version of creativitRy's ColorToTerrain script. This is the original script: https://github.com/creativitRy/ColorToTerrain
+This is a updated version of creativitRy's ColorToTerrain script. You can find the original script here: https://github.com/creativitRy/ColorToTerrain
 
 What is ColorToTerrain?
 

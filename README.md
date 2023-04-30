@@ -1,9 +1,12 @@
 # Updated-ColorToTerrain-Script
 This is a updated version of creativitRy's ColorToTerrain script. You can find the original script here: https://github.com/creativitRy/ColorToTerrain
 
+THIS DESCRIPTION IS NOT FINISHED
+
 What is ColorToTerrain?
 
 ColorToTerrain is a script that takes a image, compares the colors of the pixels to colors that are assigned to minecraft blocks and paints the image onto a worldpainter world
+
 How does ColorToTerain work?
 
 

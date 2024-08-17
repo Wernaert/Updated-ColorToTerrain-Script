@@ -13,7 +13,7 @@ ColorToTerrain is a script that takes a image, compares the colors to colors tha
 ## How to use ColorToTerrain
 **Make sure you are using the correct version of the script. The window of the normal version will not be usable on 1080p screens!**
 
-To use the script you need worldpainter world and an image. Paste the file path to an image into the parameters text field. The top left corner of the image will be placed into the top left corner of the world.
+To use the script you need a worldpainter world and an image. Paste the file path to an image into the parameters text field. The top left corner of the image will be placed into the top left corner of the world.
 
 <br/>
 
